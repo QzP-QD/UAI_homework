@@ -1,4 +1,4 @@
-#统计征祥镇台云模型中云滴所占比例
+#统计正向正态云模型中云滴所占比例
 
 import numpy as np
 from time import time
